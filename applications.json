@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
-        }
+        },
+        {
+          "short_description": "Point at anything on screen and talk to write a brief with matched screenshots for Claude Code, Cursor, Codex or any chat, with every brief filed into a task so a new chat knows what was tried.",
+          "categories": [
+            "development",
+            "productivity"
+          ],
+          "repo_url": "https://github.com/maddy30445r/deiko",
+          "title": "Deiko",
+          "icon_url": "https://deiko.app/assets/apple-touch-icon.png",
+          "screenshots": [
+            "https://raw.githubusercontent.com/maddy30445r/deiko/main/docs/assets/board-light.png"
+          ],
+          "official_site": "https://deiko.app",
+          "languages": [
+            "swift",
+            "javascript"
+          ]
+}
     ]
 }
